@@ -8,6 +8,7 @@
 
 html {
   font-size: 100%;
+  border-top: .25rem solid rgba(0,0,0,0.125);
 }
 html, body {
   margin:0;
@@ -52,16 +53,16 @@ a {
 }
 
 #banner {
-  padding: 2rem;
-  border-top: .25rem solid rgba(0,0,0,0.125);
-  
-  h1 {
-    font-size: 1.2rem;
+  margin: 2rem 0 8rem;
+  text-align:center;
+  p {
+    font-size: .925rem;
     margin:0;
   }
 }
 
-main {
+#banner,
+#main {
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
@@ -74,7 +75,7 @@ article {
       text-align: center;
       &:after {
         display:block;
-        margin: 2rem auto;
+        margin: 3rem auto;
         content: " ";
         width: 5rem;
         height: .125rem;
