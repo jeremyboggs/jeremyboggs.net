@@ -1,0 +1,98 @@
+---
+---
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+}
+html, body {
+  margin:0;
+  padding:0;
+}
+
+body {
+  color: #444;
+  font: 18px/1.5 "Lusitana", Georgia, serif;
+}
+
+h1 {
+  font-weight:normal;
+}
+
+h2,h3 {
+  margin-bottom: 0;
+  * + & {
+    margin-top: 2rem;
+  }
+
+}
+
+h3 {
+  font-size: 1em;
+  font-weight: bold;
+  
+}
+
+a {
+  &:link {
+    color: hsla(200,70%,50%,.9);
+  }
+  &:visited {
+    color: hsla(200,70%,50%,.7);
+  }
+  &:hover,
+  &:focus,
+  &:active {
+    color: hsla(200, 20%,50%,.9);
+  }
+}
+
+#banner {
+  padding: 2rem;
+  border-top: .25rem solid rgba(0,0,0,0.125);
+  
+  h1 {
+    font-size: 1.2rem;
+    margin:0;
+  }
+}
+
+main {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+article {
+  header {
+    h1 {
+      font-size: 3rem;
+      text-align: center;
+      &:after {
+        display:block;
+        margin: 2rem auto;
+        content: " ";
+        width: 5rem;
+        height: .125rem;
+        background-color: hsla(200,100%,70%,.7);
+      }
+    }
+  }
+}
+
+.audible {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
+

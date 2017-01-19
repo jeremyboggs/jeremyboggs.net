@@ -1,0 +1,48 @@
+# Global Site Information
+title: Jeremy Boggs
+author: Jeremy Boggs
+domain: http://jeremyboggs.net
+baseurl: ""
+
+# Jekyll Settings
+permalink: /:categories/:title/
+exclude: ['readme.md', '.gitignore', '.sass-cache', 'Gemfile', 'Gemfile.lock', '_linked-data']
+show_drafts: false
+gems: ['jekyll-feed', 'jekyll-sitemap']
+feed:
+  path: atom.xml
+sass:
+  sass_dir: _sass
+  style: compressed
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      bodyclass: "post"
+  -
+    scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: "post"
+      bodyclass: "course"
+
+
+# Collections
+collections:
+  bibliographies:
+    output: true
+    permalink: /bibliographies/:title/
+  courses:
+    output: true
+    permalink: /courses/:title/
+

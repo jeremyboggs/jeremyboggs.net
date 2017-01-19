@@ -1,7 +1,9 @@
-<!DOCTYPE HTML>
-<meta charset="utf-8">
-<title>Page Title</title>
-<link rel="stylesheet" href="styles.css">
+---
+layout: default
+title: Home
+---
 
-<h1>Jeremy Boggs</h1>
-<p>I'm a designer in the <a href="http://scholarslab.org">Scholars' Lab</a> at the <a href="http://library.virginia.edu">University of Virginia Library</a>.</p>
+<h2>Courses</h2>
+{% for course in site.courses %}
+  <li><a href="{{ course.url }}">{{ course.title }}</a> ({{ course.term }})</li>
+{% endfor %}
