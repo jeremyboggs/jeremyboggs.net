@@ -3,7 +3,11 @@ layout: default
 title: Home
 ---
 
-<h2>Courses</h2>
-{% for course in site.courses %}
-  <li><a href="{{ course.url }}">{{ course.title }}</a> ({{ course.term }})</li>
-{% endfor %}
+<div id="courses">
+  <h2>Courses</h2>
+  <ul>
+  {% for course in site.courses %}
+    <li><a href="{{ course.url }}">{{ course.title }}</a> ({{ course.term }})</li>
+  {% endfor %}
+  </ul>
+</div>
