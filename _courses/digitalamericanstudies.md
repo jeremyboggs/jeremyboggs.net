@@ -38,7 +38,7 @@ Studies”](http://chnm.gmu.edu/aq/), by Roy Rosenzweig, ed.
 
 ### More than Data (February 21, 23)
 
-- [“Twelve Principles of Data Ethics”](http://ethicalresolve.com/twelve-principles-of-data-ethics/)
+- [“Twelve Principles of Data Ethics”](http://ethicalresolve.com/twelve-principles-of-data-ethics/) by Jacob Metcalf.
 - [Documenting the Now](http://docnow.io)
 - [D3JS](http://d3js.org)
 - [_Visualizing Information for Advocacy_](http://visualisingadvocacy.org/getbook) by Tactical Technology Collective.
@@ -47,10 +47,10 @@ Studies”](http://chnm.gmu.edu/aq/), by Roy Rosenzweig, ed.
 
 ### Critical Making (February 28, March 2)
 
-- [“Bibliocircuitry and the Design of the Alien Every Day”](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
+- [“Bibliocircuitry and the Design of the Alien Every Day”](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051) by Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin.
 - [“New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice.”](http://www.cjc-online.ca/index.php/journal/article/view/2506/2773) by Devon Elliott, Rob MacDougall, and William J. Turkell.
 - [“Kits for Culture”](http://maker.uvic.ca/category/kits/)
-- [“Teaching Archaeology of the Middle East in the Time of Daesh”](http://scholarslab.org/digital-humanities/teaching-archaeology-of-the-middle-east-in-the-time-of-daesh-the-merits-of-incorporating-allahyaris-material-speculation-with-3d-printing/)
+- [“Teaching Archaeology of the Middle East in the Time of Daesh”](http://scholarslab.org/digital-humanities/teaching-archaeology-of-the-middle-east-in-the-time-of-daesh-the-merits-of-incorporating-allahyaris-material-speculation-with-3d-printing/) by Jennifer Grayburn.
 
 
 ### Spring Break (March 7, 9)
