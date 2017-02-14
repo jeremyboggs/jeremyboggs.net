@@ -31,7 +31,7 @@ Studies”](http://chnm.gmu.edu/aq/), by Roy Rosenzweig, ed.
 ### Digital Archives & Collections (February 14, 16)
 
 - [CREST - 25-Year Program Archive](https://www.cia.gov/library/readingroom/collection/crest-25-year-program-archive)
-- [Take Back the Archive](https://takeback.scholarslab.org)
+- [Take Back the Archive](http://takeback.scholarslab.org)
 - [Geography of Slavery](http://www2.vcdh.virginia.edu/gos/)
 - [Omeka](http://omeka.org)
 
@@ -58,7 +58,7 @@ Studies”](http://chnm.gmu.edu/aq/), by Roy Rosenzweig, ed.
 
 ### Digital Research Project (March 14–May 2)
 
-- **March 21** – Proposal Due 
+- **March 21** – Proposal Due
 - **April 25** – (shared with the class)
 - **May 2** – Peer Critique Due
 
