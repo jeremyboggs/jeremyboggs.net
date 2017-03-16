@@ -1,4 +1,7 @@
---- title: Digital American Studies term: Spring 2017 ---
+---
+title: Digital American Studies
+term: Spring 2017
+---
 
 This course is designed as a intensive exploration of the adaptation of
 American Studies to a digital environment. As such it is a course in
