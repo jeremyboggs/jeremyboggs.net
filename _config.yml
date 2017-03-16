@@ -39,9 +39,6 @@ defaults:
 
 # Collections
 collections:
-  bibliographies:
-    output: true
-    permalink: /bibliographies/:title/
   courses:
     output: true
     permalink: /courses/:title/
