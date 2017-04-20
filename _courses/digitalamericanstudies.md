@@ -96,8 +96,7 @@ by Jennifer Grayburn.
 ### Digital Research Project (March 14–May 2)
 
 - **March 28** – Proposal Due
-- **April 25** – (shared with the class)
-- **May 2** – Peer Critique Due
+- **May 2** – Project shared with the class
 
 For the second half of the semester, you will plan, manage, develop, and
 present a modest research project using any combination of digital tools
