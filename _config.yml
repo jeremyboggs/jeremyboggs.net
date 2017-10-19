@@ -1,14 +1,14 @@
 # Global Site Information
 title: Jeremy Boggs
 author: Jeremy Boggs
-domain: http://jeremyboggs.net
+url: "http://jeremyboggs.net"
 baseurl: ""
 
 # Jekyll Settings
 permalink: /:categories/:title/
 exclude: ['readme.md', '.gitignore', '.sass-cache', 'Gemfile', 'Gemfile.lock', '_linked-data']
 show_drafts: false
-gems: ['jekyll-feed', 'jekyll-sitemap']
+plugins: ['jekyll-feed', 'jekyll-sitemap']
 feed:
   path: atom.xml
 sass:
