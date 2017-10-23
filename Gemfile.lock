@@ -12,6 +12,7 @@ GEM
     concurrent-ruby (1.0.5)
     domain_name (0.5.20170404)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.2.1)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
     goodreads (0.5.0)
@@ -84,6 +85,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   goodreads
   jekyll (~> 3.6)
   jekyll-feed (~> 0.9)
