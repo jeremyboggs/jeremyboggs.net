@@ -1,11 +1,30 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    activesupport (5.1.4)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (~> 0.7)
+      minitest (~> 5.1)
+      tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
+    concurrent-ruby (1.0.5)
+    domain_name (0.5.20170404)
+      unf (>= 0.0.5, < 1.0.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
+    goodreads (0.5.0)
+      activesupport (>= 3.0)
+      hashie (~> 2.0)
+      i18n (~> 0.5)
+      oauth (~> 0.4)
+      rest-client (~> 2.0)
+    hashie (2.1.2)
+    http-cookie (1.0.3)
+      domain_name (~> 0.5)
+    i18n (0.9.0)
+      concurrent-ruby (~> 1.0)
     jekyll (3.6.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -31,12 +50,22 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    mime-types (3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2016.0521)
+    minitest (5.10.3)
+    netrc (0.11.0)
+    oauth (0.5.3)
     pathutil (0.16.0)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
+    rest-client (2.0.2)
+      http-cookie (>= 1.0.2, < 2.0)
+      mime-types (>= 1.16, < 4.0)
+      netrc (~> 0.8)
     rouge (2.2.1)
     safe_yaml (1.0.4)
     sass (3.5.2)
@@ -44,14 +73,21 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    thread_safe (0.3.6)
+    tzinfo (1.2.3)
+      thread_safe (~> 0.1)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  goodreads
   jekyll (~> 3.6)
-  jekyll-feed
-  jekyll-sitemap
+  jekyll-feed (~> 0.9)
+  jekyll-sitemap (~> 1.1)
 
 BUNDLED WITH
    1.15.4
