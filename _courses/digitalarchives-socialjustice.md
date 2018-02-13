@@ -6,6 +6,14 @@ occurrence: Tu/Th, 12:30–1:45
 office-hours: Thursdays 2–4
 office-location: Alderman 411a (Scholars’ Lab) 
 ---
+
+- Tu/Th, 12:30–1:45
+- New Cabell 042
+- Office: Alderman 411a (Scholars’ Lab)
+- Hours: Thrusdays 2–4
+- Email: jeremy@virginia.edu
+- Phone: 434-243-2317
+
 > "Archives are not neutral; they embody the power inherent in accumulation, collection and hoarding as well as that power inherent in the command of the lexicon and rules of language...." – Allan Sekula, "Reading an Archive" 
 
 This seminar supports critical engagement with social justice through the research, design, development, and critique of digital archives and collections. This is a course in applied American Studies; it emphasizes reading, discussing, and making, and it values tacit knowledge through the practice of building and using digital collections. 
@@ -37,7 +45,7 @@ The course starts with the premise that "archives are not neutral," and investig
 - **February 13–March 1**: Frameworks, Tools, Methods
     - [DocNow](http://docnow.io)
     - [D3JS](http://d3js.org)
-    - [Jekyll](http://jekyllrb.org)
+    - [Jekyll](http://jekyllrb.com)
     - [Mukurtu](http://mukurtu.org/)
     - [Omeka](https://omeka.org)
 - **March 6-8**: Spring Break, no class
