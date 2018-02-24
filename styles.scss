@@ -15,10 +15,7 @@ html, body {
 html {
   font-size: 100%;
   background: hsla(40,40%,40%,.175);
-  padding: 0 3rem;
-  display:flex;
-  flex-direction: column;
-  min-height: 100vh;
+  padding: 0 1rem;
 }
 
 
@@ -27,13 +24,7 @@ body {
   font: 18px/1.5 "Lusitana", Georgia, serif;
   padding: 0;
   background: #fafafa;
-  background: hsla(40,100%,50%,.8) url('images/durer-small.jpg') top right fixed no-repeat;
-  background-size: 110vh;
-  display:flex;
-  flex-direction: column;
   min-height: 100vh;
-  align-items: stretch;
-  box-shadow: 0 0 10px rgba(0,0,0,.125);
 }
 
 h1 {
@@ -67,8 +58,8 @@ a {
 }
 
 #banner {
-    padding: 1rem 3rem;
-
+    padding: 1rem;
+    text-align:left;
     p {
         font-size: .9rem;
     }
@@ -77,16 +68,10 @@ a {
 
 #banner,
 #main {
-    width: 50%;
     background: hsla(40,100%,50%,.8);
     background: hsl(40,60%,98%);
+    padding: 1rem 3rem;
 }
-
-#main {
-    padding: 3rem;
-    flex:1;
-}
-
 
 article {
   header {
