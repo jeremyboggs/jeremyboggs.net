@@ -54,6 +54,9 @@ The course starts with the premise that "archives are not neutral," and investig
     - *April 30* - Poster session
     - *May 1* - Final project due
 
+## Additional Reading
+
+- [Elements of User Experience](http://www.jjg.net/elements/pdf/elements_ch02.pdf)
 ## Work and Grades
 
 - Digital Archive Critique (20%)
