@@ -51,7 +51,6 @@ The course starts with the premise that "archives are not neutral," and investig
 - **March 6-8**: Spring Break, no class
 - **March 13–May 1**: Digital Research Projects
     - *March 22* - Proposal Due
-    - *April 30* - Poster session
     - *May 1* - Final project due
 
 ## Additional Reading
