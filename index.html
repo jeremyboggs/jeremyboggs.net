@@ -3,11 +3,32 @@ layout: default
 title: Home
 ---
 
-<div id="courses">
+<section id="contact">
+    <h2>Contact</h2>
+    <ul>
+        <li>Office: Alderman 411a (Scholars’ Lab)</li>
+        <li>Hours: Thursdays 2–4</li>
+        <li>Email: <a href="mailto:jeremy@virginia.edu">jeremy@virginia.edu</a></li>
+        <li>Phone: 434-243-2317</li>
+    </ul>
+</section>
+
+<section id="courses">
   <h2>Courses</h2>
   <ul>
   {% for course in site.courses %}
     <li><a href="{{ course.url }}">{{ course.title }}</a> ({{ course.term }})</li>
   {% endfor %}
   </ul>
-</div>
+</section>
+
+{% if site.posts.size > 0 %}
+<section id="writing">
+    <h2>Writing</h2>
+    <ul>
+    {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+</section>
+{% endif %}
