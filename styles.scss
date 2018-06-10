@@ -29,6 +29,7 @@ body {
 
 h1 {
   font-weight:normal;
+  font-size: 3rem;
 }
 
 h2,h3 {
@@ -57,6 +58,40 @@ a {
   }
 }
 
+figure {
+    margin-left:0;
+    margin-bottom: 3rem;
+}
+
+blockquote {
+    font-size: 1.375rem;
+    color: #666;
+    margin: 4rem 0 4rem 2rem;
+    figure & {
+        margin-bottom: 1rem;
+    }
+    position: relative;
+    &:before {
+        content: "“";
+        color: hsla(40,100%,50%,.7);
+        font-size: 10rem;
+        float:left;
+        line-height:.75;
+        position: absolute;
+        left: -5rem;
+    }
+
+    & + figcaption {
+       text-align:right;
+        p:before {
+            content: "—";
+            color: #999;
+            margin-right: .25rem;
+        }
+    }
+    
+}
+
 #banner {
     padding: 1rem;
     text-align:left;
@@ -70,21 +105,32 @@ a {
 #main {
     background: hsla(40,100%,50%,.8);
     background: hsl(40,60%,98%);
-    padding: 1rem 3rem;
+    padding: 1rem 2rem;
 }
 
 article {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: no-wrap;
+
   header {
+      margin-top: 2rem;
+      min-height: 60vh;
+      width: 100%;
+      display:flex;
+      flex-direction: column;
+      justify-content: center;
     h1 {
-      font-size: 2.5rem;
+      font-size: 5rem;
       margin-top:0;
+
       &:after {
-        display:block;
-        margin: 2rem 0 6rem;
-        content: " ";
-        width: 2rem;
-        height: .125rem;
-        background-color: hsla(40,100%,50%,.8);
+          content: " ";
+          width: 5rem;
+          height: .2rem;
+          margin-top: 5rem;
+          background: hsla(40,100%,50%,.8);
+          display:block;
       }
     }
   }
@@ -100,5 +146,25 @@ article {
   position: absolute;
   width: 1px;
   white-space: nowrap;
+}
+
+@media screen and (min-width: 800px) {
+
+html {
+    padding-left: 5rem;
+}
+
+#banner,
+#main {
+    background: hsla(40,100%,50%,.8);
+    background: hsl(40,60%,98%);
+    padding: 1rem 5rem;
+}
+
+article {
+    .content {
+        width: 800px;
+    }
+}
 }
 
