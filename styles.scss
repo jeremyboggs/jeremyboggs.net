@@ -6,7 +6,6 @@
   box-sizing: border-box;
 }
 
-
 html, body {
   margin:0;
   padding:0;
@@ -59,78 +58,78 @@ a {
 }
 
 figure {
-    margin-left:0;
-    margin-bottom: 3rem;
+  margin-left:0;
+  margin-bottom: 3rem;
 }
 
 blockquote {
-    font-size: 1.375rem;
-    color: #666;
-    margin: 4rem 0 4rem 2rem;
-    figure & {
-        margin-bottom: 1rem;
-    }
-    position: relative;
-    &:before {
-        content: "“";
-        color: hsla(40,100%,50%,.7);
-        font-size: 10rem;
-        float:left;
-        line-height:.75;
-        position: absolute;
-        left: -5rem;
-    }
+  font-size: 1.375rem;
+  color: #666;
+  margin: 4rem 0 4rem 2rem;
+  figure & {
+    margin-bottom: 1rem;
+  }
+  position: relative;
+  &:before {
+    content: "“";
+    color: hsla(40,100%,50%,.7);
+    font-size: 10rem;
+    float:left;
+    line-height:.75;
+    position: absolute;
+    left: -5rem;
+  }
 
-    & + figcaption {
-       text-align:right;
-        p:before {
-            content: "—";
-            color: #999;
-            margin-right: .25rem;
-        }
+  & + figcaption {
+    text-align:right;
+    p:before {
+      content: "—";
+      color: #999;
+      margin-right: .25rem;
     }
-    
+  }
+
 }
 
 #banner {
-    padding: 1rem;
-    text-align:left;
-    p {
-        font-size: .9rem;
-    }
-    
+  padding: 1rem;
+  text-align:left;
+  p {
+    font-size: .9rem;
+  }
+
 }
 
 #banner,
 #main {
-    background: hsla(40,100%,50%,.8);
-    background: hsl(40,60%,98%);
-    padding: 1rem 2rem;
+  background: hsla(40,100%,50%,.8);
+  background: hsl(40,60%,98%);
+  padding: 1rem 2rem;
 }
 
 article {
-    display:flex;
-    flex-direction: column;
-    flex-wrap: no-wrap;
+  display:flex;
+  flex-direction: column;
+  flex-wrap: no-wrap;
 
   header {
-      margin-top: 2rem;
-      min-height: 30vh;
-      width: 100%;
-      display:flex;
-      flex-direction: column;
-      justify-content: center;
+    margin-top: 2rem;
+    min-height: 30vh;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
     h1 {
       font-size: 3rem;
       margin-top:0;
 
       &:after {
-          content: " ";
-          width: 3rem;
-          height: .2rem;
-          margin-top: 5rem;
-          background: hsla(40,100%,50%,.8);
-          display:block;
+        content: " ";
+        width: 3rem;
+        height: .2rem;
+        margin-top: 5rem;
+        background: hsla(40,100%,50%,.8);
+        display:block;
       }
     }
   }
@@ -150,21 +149,21 @@ article {
 
 @media screen and (min-width: 800px) {
 
-html {
+  html {
     padding-left: 5rem;
-}
+  }
 
-#banner,
-#main {
+  #banner,
+  #main {
     background: hsla(40,100%,50%,.8);
     background: hsl(40,60%,98%);
     padding: 1rem 5rem;
-}
+  }
 
-article {
+  article {
     .content {
-        width: 800px;
+      width: 800px;
     }
-}
+  }
 }
 
