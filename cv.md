@@ -6,7 +6,7 @@ title: Curriculum Vita
 # Experience
 
 - Head of Research and Development, Scholars' Lab, University of Virginia Library. March 2017–present.
-- Lectureer, American Studies, University of Virginia. January 2013–present.
+- Lecturer, American Studies, University of Virginia. January 2013–present.
 - Design Architect, Scholars' Lab, University of Virginia Library, June 2011–March 2017.
 - Assistant Director of Research, Center for History and New Media, George Mason University, October 2010–June 2011.
 - Adjunct Professor, Department of History, American University, 
