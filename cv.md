@@ -13,7 +13,7 @@ title: Curriculum Vita
 - Creative Lead, Center for History and New Media, George Mason University, January 2008–October 2010.
 - Web Developer, Center for History and New Media, George Mason University, January 2006–January 2008. 
 - Lecturer, Department of History and Art History, George Mason University, August 2006–January 2012.
-- Lecturer, Department of Art, George Mason University, 
+- Lecturer, Department of Art and Visual Techology, George Mason University, August 2010.
 
 # Education
 
@@ -52,13 +52,14 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 # Digital Research and Scholarship
 
-- 
-
+- Take Back the Archive
+- Neatline
 
 # Grant-Funded Research and Development
 
 - Principle Investigator, “Neatline”
-- Collaborator, 
+- Collaborator, “Participatory Media”
+- Collaborator, “Accessible Futures”
 
 # Courses Taught
 
@@ -71,7 +72,7 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 - HIST 698, Creating History with New Media
 - HIST 120, U.S. History Survey
-- 
+- AVT 415, Web Design and Usability
 
 ## American University, Washington, DC
 
