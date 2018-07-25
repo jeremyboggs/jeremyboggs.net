@@ -18,7 +18,7 @@ title: Curriculum Vita
 # Education
 
 - Master of Arts, History, Virginia Polytechnic Institute and State University, 2003.
-- Bachelor of Arts, History and Political Sciene, University of Virginia’s College at Wise, 2001.
+- Bachelor of Arts, History and Political Science, University of Virginia’s College at Wise, 2001.
 
 # Publications
 
