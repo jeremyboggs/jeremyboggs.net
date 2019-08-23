@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Celebrity Bibliophile Name Generator</title>
+<style>
+    html,body {margin:0;padding:0;}
+    body {
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        background: #fff09c;
+    }
+    h1 {font-size:1em;}
+    p {font-size:1.5em; margin:0 0 3em;}
+    #business-card {
+        background: white;
+        box-shadow:5px 5px 5px rgba(0,0,0,0.125);
+        padding: 2rem;
+        min-width: 400px;
+        min-height: 200px;
+        display:flex;
+        flex-direction: column;
+        flex-wrap:no-wrap;
+        justify-content: space-between;
+    }
+</style>
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+<script src="tracery.min.js"></script>
+<script>
+    var names = {
+        prime_minister: [
+            "Douglas-Home",
+            "Eden",
+            "Primrose",
+            "Balfour",
+            "Wellesley",
+            "Fitzroy",
+            "Disraeli",
+            "Law",
+            "Grey",
+            "Wentworth",
+            "Attlee",
+            "Cameron",
+            "George",
+            "Stanley",
+            "Heath",
+            "Robinson",
+            "North",
+            "Canning",
+            "Grenville",
+            "Hamilton-Gordon",
+            "Brown",
+            "Asquith",
+            "Macmillan",
+            "Wilson",
+            "Addington",
+            "Campbell-Bannerman",
+            "Temple",
+            "Pelham",
+            "Callaghan",
+            "Major",
+            "Russell",
+            "Stuart",
+            "Thatcher",
+            "Chamberlain",
+            "Macdonald",
+            "Jenkinson",
+            "Cecil",
+            "Peel",
+            "Walpole",
+            "Compton",
+            "Perceval",
+            "Baldwin",
+            "May",
+            "Pelham-Holles",
+            "Blair",
+            "Cavendish",
+            "Gladstone",
+            "Cavendish-Bentinck",
+            "Lamb",
+            "Petty-Fitzmaurice",
+            "Elder",
+            "Younger",
+            "Grenville",
+            "Churchill"
+        ],
+        alcohol: [
+            "Rye",
+            "Whisky",
+            "Whiskey",
+            "Beer",
+            "Bourbon",
+            "Scotch",
+            "Ale",
+            "Lager",
+            "Stout",
+            "Porter",
+            "Pilsner",
+            "Moonshine",
+            "Gin",
+            "Rum",
+            "Absinthe",
+            "Brandy",
+            "Wine",
+            "Schnapps",
+            "Herbsaint",
+            "Tequila",
+            "Mezcal",
+            "Vodka",
+            "Barleywine",
+            "Cider",
+            "Mead"
+        ],
+        bibliophile: ["#prime_minister# #alcohol#"]
+    };
+
+$(function() {
+    var grammar = tracery.createGrammar(names);
+    var bibliophile = grammar.flatten('#bibliophile#');
+    $('#business-card').prepend('<p>' + bibliophile + '</p>');
+});
+
+</script>
+<div id="business-card">
+    <div>
+        <em>Celebrity Bibliophile</em><br>
+        T: +1.555.555.5555<br>
+    E: style@example.com
+    </div>
+</div>
