@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: A Carrier Bag Theory for Digital Humanities
 ---
 
