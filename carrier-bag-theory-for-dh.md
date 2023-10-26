@@ -7,7 +7,7 @@ Thank you for inviting me here! And thank you, to each of you for being here, fo
 
 The title for this presentation, and everything else in it, is inspired by an essay called "The Carrier Bag Theory of Fiction" by Ursula K. Le Guin. Le Guin was 88 years old when passed away on Tuesday. If you've not read any of her work, I  encourage you to go to the library or book store and find it. Perhaps right after we're done here, but if you feel the need to go now, I absolutely would not hold it against you. I hesitate to say much here; I'm simply a fanboy. Others have written descriptions and obituaries in recent days, some good, some that could be better. But none of them are better, I think, than China Miéville, who kindly corrected one of those obituaries by adding to it: "An unflinching radical has died. A literary colossus has died. A comrade, a giant of modern letters has died."
 
-# Carrier Bag Theory
+## Carrier Bag Theory
 
 Le Guin was a master storyteller, and her stories were about, and in support of, the marginalized, the oppressed, the disposessed.  In her essay "The Carrier Bag Theory of Fiction", Le Guin finds a way to describe her fiction, in a therory proposed by anthropologist Elizabeth Fisher:
 
@@ -23,7 +23,7 @@ A tool that helps gather and bring energy home. But Le Guin says its hard to wri
 
 Le Guin is after something much bigger than writing stories that focus on embodying a carrier bag theory. It's not just a rejection of narrative driven by conflict, punctuation by weapons and violence; Le Guin doen't expect those things to disappear entirely, but rather wants them to be elements contained in the story. Stories needn't be reduced to conflict and resolution; they should be about continuing process.
 
-Le Guin reminds us that "it is the story that matters." Whether we realize it or not, much Digital Humanities work involves making and sharing these containers of things that are, and can be used, to tell stories. What I'd like to spend more time thinking about, and talking with you now, is how we make and use those carrier bags, those seed bags, and how we might 
+Le Guin reminds us that "it is the story that matters." Whether we realize it or not, much Digital Humanities work involves making and sharing these containers of things that are, and can be used, to tell stories. What I'd like to spend more time thinking about, and talking with you now, is how we make and use those carrier bags, those seed bags, and how we might
 
 ## Telling Stories
 
@@ -45,7 +45,7 @@ Containers within containers within containers. Containers all the way down.
 
 ## Projects and Intentions
 
-Words mean things, and if words are, as Le Guin reminds us, containers or carriers of meaning, then it matter what words we use in the stories we tell to tell other stories. And if there's one word I hear frequently in Digital Humanities discourse, it's _project_. People are starting _projects_, collaborating on _projects_, getting grant funding for _projects_, sustaining and preserving (or talking about the need to sustain and preserve) projects. Projects, projects, projects. 
+Words mean things, and if words are, as Le Guin reminds us, containers or carriers of meaning, then it matter what words we use in the stories we tell to tell other stories. And if there's one word I hear frequently in Digital Humanities discourse, it's _project_. People are starting _projects_, collaborating on _projects_, getting grant funding for _projects_, sustaining and preserving (or talking about the need to sustain and preserve) projects. Projects, projects, projects.
 
 But if the word _project_ is a container, a carrier bag, then the digital humanities as a community of practice has essentially cast a Undetectable Extension Charm on the word, making it as bottomless as Hermoine Granger's delightful beaded handbag. (Or, if you'd prefer, making it bigger on the inside like the TARDIS. Or, a _bag of holding_ if you play Dungeons and Dragons or just like _Stranger Things_. We seem to love containers that carry more than they would seem....There might be a project in that.)
 
@@ -83,4 +83,4 @@ I'm interested, so very much, in this exchange of gifts. In what we gather, as i
 
 I'm interested in fostering an awareness of digital humanities work that would intentially, thoughtfully welcome salvage/mending/reseeding, taking care of the carrier bags we've always already been making, and making new carrier bags with the intent that their contents be used. I don't think we really yet know what that looks like yet.
 
-The purpoe of this talk is continuing process, not resolution nor stasis. This is the result of the hermeneutics of my own messing around, rambling about. It's a carrier bag, of things I've gathered and processed, and I've share a bit of it with you. I hope we can talk more, and I can continue gathering things. 
+The purpoe of this talk is continuing process, not resolution nor stasis. This is the result of the hermeneutics of my own messing around, rambling about. It's a carrier bag, of things I've gathered and processed, and I've share a bit of it with you. I hope we can talk more, and I can continue gathering things.
