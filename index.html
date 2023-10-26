@@ -7,20 +7,8 @@ title: Home
     <h2>Contact</h2>
     <ul>
         <li>Office: Clemons 313 (Scholars’ Lab)</li>
-        <li>Hours: Thursdays 2–4</li>
         <li>Email: <a href="mailto:jeremy@virginia.edu">jeremy@virginia.edu</a></li>
-        <li>Phone: 434-243-2317</li>
     </ul>
-</section>
-
-<section id="courses">
-  <h2>Courses</h2>
-  <ul>
-  {% for course in site.courses %}
-    <li><a href="{{ course.url }}">{{ course.title }}</a> ({{ course.term }})</li>
-  {% endfor %}
-    <li><a href="http://advocacybydesign.org/hilt2018/">HILT 2018</a></li>
-  </ul>
 </section>
 
 {% if site.posts.size > 0 %}
