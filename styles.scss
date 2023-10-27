@@ -5,7 +5,8 @@
 
 }
 
-#banner:after {
+#banner:after,
+footer:before {
   content: " ";
   display: block;
   height: 0px;
