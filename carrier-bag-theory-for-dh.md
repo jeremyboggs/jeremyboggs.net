@@ -21,9 +21,9 @@ A tool that helps gather and bring energy home. But Le Guin says its hard to wri
 
 > Conflict, competition, stress, struggle, etc., within the narrative conceived as carrier bag/belly/box/house/medicine bundle, may be seen as necessary elements of a whole which itself cannot be characterized either as conflict or as harmony, since its purpose is neither resolution nor stasis but continuing process.
 
-Le Guin is after something much bigger than writing stories that focus on embodying a carrier bag theory. It's not just a rejection of narrative driven by conflict, punctuation by weapons and violence; Le Guin doen't expect those things to disappear entirely, but rather wants them to be elements contained in the story. Stories needn't be reduced to conflict and resolution; they should be about continuing process.
+Le Guin is after something much bigger than writing stories that focus on embodying a carrier bag theory. It's not just a rejection of narrative driven by conflict, punctuated by weapons and violence; Le Guin doen't expect those things to disappear entirely, but rather wants them to be elements contained in the story. Stories needn't be reduced to conflict and resolution; they should be about continuing process.
 
-Le Guin reminds us that "it is the story that matters." Whether we realize it or not, much Digital Humanities work involves making and sharing these containers of things that are, and can be used, to tell stories. What I'd like to spend more time thinking about, and talking with you now, is how we make and use those carrier bags, those seed bags, and how we might
+Le Guin reminds us that "it is the story that matters." Whether we realize it or not, much Digital Humanities work involves making and sharing these containers of things that are, and can be used, to tell stories. What I'd like to spend more time thinking about, and talking with you now, is how we make and use those carrier bags in our own work.
 
 ## Telling Stories
 
@@ -65,7 +65,7 @@ Then I think about a project like _Take Back The Archive_, a project I work on a
 
 One of my favorite lines from Le Guin is the phrase "true journey is return," which was written by the revolutionary named Odo. Odo was the founder of the Odonians, in the novel  _The Disposessed_, but she doesn't appear in that novel. Le Guin described the end of Odo's life in the short story "The Day Before The Revolution," in which Odo is elderly, recovering from a stroke, and is seeing the benefits of her lifetime of political struggle beginning to grow in the city around her.
 
-There's a project/container I've return to, and share with students, that's almost 20 years old now, called _The Geography of Slavery in Virginia_ by my undergraduate mentor Tom Costa. It's an online collection of runaway slave advertisements from Virginia newspapers in the seventeenth and eighteenth centuries.
+There's a project/container I've returned to, and share with students, that's almost 20 years old now, called _The Geography of Slavery in Virginia_ by my undergraduate mentor Tom Costa. It's an online collection of runaway slave advertisements from Virginia newspapers in the seventeenth and eighteenth centuries.
 
 This was one of the first digital history projects developed at the University of Virginia, and one of the first to transcribe and share materials. And its still there, and still working. I hope Take Back the Archive still looks and works as well as The Geography of Slavery does in 15 or so years.
 
