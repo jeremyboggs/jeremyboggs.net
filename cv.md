@@ -50,16 +50,13 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 - (Panelist) “Teaching and learning in the digital age,” with Kelly Schrum, Trevor Owens, Ken Albers, Jennifer Reeder, and Ammon Shepherd. Annual Meeting of the History of Education Society, October 2009, Philadelphia, PA
 - (Panelist) “Free digital tools to inspire student learning,” with Trevor Owens, Lee Ann Ghajar, and Dave Lester. National Education Computing Conference, June 2009, Fairfax, VA.
 
-## Digital Research and Scholarship
-
-- Take Back the Archive
-- Neatline
-
 ## Grant-Funded Research and Development
 
-- Principle Investigator, “Neatline”
-- Collaborator, “Participatory Media”
-- Collaborator, “Accessible Futures”
+- Co-principal Investigator, "Digital Collecting in Times of Crisis".
+- Principal Investigator, “Neatline”.
+- Collaborator, “Participatory Media”.
+- Collaborator, "Speaking in Code".
+- Collaborator, “Accessible Futures”.
 
 ## Courses Taught
 
@@ -82,11 +79,12 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 - Advocacy By Design (2018)
 - Design in the Digital Humanities (2015)
-- Programming for the Humanities (2013–2014)
+- Programming for the Humanities (2013, 2014)
 
 ## Organization of Conferences and Meetings
 
 - Practicing Digital Humanities, University of Virginia Library, 2016.
+- Speaking in Code, University of Virginia, 2014.
 - THATCamp Virginia, University of Virginia, 2012–2014.
 - The Humanities and Technology Camp (THATCamp), George Mason Universtiy, 2008–2011.
 - Archiving Social Media, George Mason University, 2010.
@@ -95,14 +93,19 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 ### University of Virginia Library
 
-- Chair, Search Committee
-- Member, Search Committees
-- Member, Promotion and Review Board, August 2012–July 2015
+- Member, Library Staff Council, 2024–present.
+- Chair, Search Committee.
+- Member, Search Committees.
+- Member, Promotion and Review Board, August 2012–July 2015.
 - Member, Committee to revise Promotion and Review Guidelines, August–November 2011.
 
-### DH Slack
+### _Digital Humanities Quarterly_
 
-- Moderator, 2017–present.
+- Techical Editor, 2012–present.
+
+### _DIECIOCHO_
+
+- Technical Editor, 2022–present.
 
 ### Alliance of Digital Humanites Organizations (ADHO)
 
@@ -116,6 +119,6 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 - Communications Office, 2012–2016.
 - Webmaster, 2011–2012.
 
-### _Digital Humanities Quarterly_
+### DH Slack
 
-- Techical Editor, 2012–present.
+- Moderator, 2017–present.
