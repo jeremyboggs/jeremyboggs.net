@@ -3,24 +3,24 @@ layout: page
 title: Curriculum Vita
 ---
 
-# Experience
+## Experience
 
 - Head of Research and Development, Scholars' Lab, University of Virginia Library. March 2017–present.
 - Lecturer, American Studies, University of Virginia. January 2013–present.
 - Design Architect, Scholars' Lab, University of Virginia Library, June 2011–March 2017.
 - Assistant Director of Research, Center for History and New Media, George Mason University, October 2010–June 2011.
-- Adjunct Professor, Department of History, American University, 
+- Adjunct Professor, Department of History, American University,
 - Creative Lead, Center for History and New Media, George Mason University, January 2008–October 2010.
-- Web Developer, Center for History and New Media, George Mason University, January 2006–January 2008. 
+- Web Developer, Center for History and New Media, George Mason University, January 2006–January 2008.
 - Lecturer, Department of History and Art History, George Mason University, August 2006–January 2012.
 - Lecturer, Department of Art and Visual Techology, George Mason University, August 2010.
 
-# Education
+## Education
 
 - Master of Arts, History, Virginia Polytechnic Institute and State University, 2003.
 - Bachelor of Arts, History and Political Science, University of Virginia’s College at Wise, 2001.
 
-# Publications
+## Publications
 
 - (Book Chapter) “Making in Matter,” with J.K. Purdom Lindblad and Jennifer Reed. _Making Things and Drawing Boundaries: Experiments in the Digital Humanities_. Jentery Sayers, ed. University of Minnesota Press, 2017.
 - (Book Chapter) “Praxis,” with Bethany Nowviskie and J.K. Purdom Lindblad. _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_. Rebecca Frost David, et. al., eds. Modern Languages Association, 2016.
@@ -31,7 +31,7 @@ title: Curriculum Vita
 - (Review) Query Pic by Tim Sherratt. _Journal of Digital Humanities_ 1:1 (Winter 2011) , with Wayne Graham, Eric Rochester, and David McClure.
 - (Book Chapter) “Digital Literacy and the Undergraduate Curriculum” and “Unconferences,” _Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities_. Daniel J. Cohen and Tom Scheinfeldt, eds. University of Michigan Press, 2013.
 
-# Presentations
+## Presentations
 
 - (Invited Speaker) “A Carrier Bag Theory for Digital Humanities,” Digital Humanites and Social Justice Speaker Series. University of Houston,  January 25, 2018, Houston, Texas.
 - (Panelist) “Representing Justice in Digital Archiving Practice,” with Roopika Risam, J. K. Purdom Lindblad, and Padmini Ray Murray. Digital Humanities 2016, July 11–16, Kraków, Poland.
@@ -50,75 +50,72 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 - (Panelist) “Teaching and learning in the digital age,” with Kelly Schrum, Trevor Owens, Ken Albers, Jennifer Reeder, and Ammon Shepherd. Annual Meeting of the History of Education Society, October 2009, Philadelphia, PA
 - (Panelist) “Free digital tools to inspire student learning,” with Trevor Owens, Lee Ann Ghajar, and Dave Lester. National Education Computing Conference, June 2009, Fairfax, VA.
 
-# Digital Research and Scholarship
+## Digital Research and Scholarship
 
 - Take Back the Archive
 - Neatline
 
-# Grant-Funded Research and Development
+## Grant-Funded Research and Development
 
 - Principle Investigator, “Neatline”
 - Collaborator, “Participatory Media”
 - Collaborator, “Accessible Futures”
 
-# Courses Taught
+## Courses Taught
 
-## University of Virginia, Charlottesville, VA
+### University of Virginia, Charlottesville, VA
 
 - AMST 4500, Digital Archives and Social Justice
 - AMST 2500, Digital American Studies
 
-## George Mason University, Fairfax, VA
+### George Mason University, Fairfax, VA
 
 - HIST 698, Creating History with New Media
 - HIST 120, U.S. History Survey
 - AVT 415, Web Design and Usability
 
-## American University, Washington, DC
+### American University, Washington, DC
 
 - HIST 377/677, History in the Digital Age.
 
-## Humanities Intensive Learning and Teaching (HILT)
+### Humanities Intensive Learning and Teaching (HILT)
 
 - Advocacy By Design (2018)
 - Design in the Digital Humanities (2015)
 - Programming for the Humanities (2013–2014)
 
-# Organization of Conferences and Meetings
+## Organization of Conferences and Meetings
 
 - Practicing Digital Humanities, University of Virginia Library, 2016.
 - THATCamp Virginia, University of Virginia, 2012–2014.
 - The Humanities and Technology Camp (THATCamp), George Mason Universtiy, 2008–2011.
 - Archiving Social Media, George Mason University, 2010.
 
-# Professional Service
+## Professional Service
 
-## University of Virginia Library
+### University of Virginia Library
 
 - Chair, Search Committee
-- Member, Search Committees 
+- Member, Search Committees
 - Member, Promotion and Review Board, August 2012–July 2015
 - Member, Committee to revise Promotion and Review Guidelines, August–November 2011.
 
-## DH Slack
+### DH Slack
 
 - Moderator, 2017–present.
- 
-## Alliance of Digital Humanites Organizations (ADHO)
+
+### Alliance of Digital Humanites Organizations (ADHO)
 
 - Member, Program Committee, Digital Humanities Conference, 2017.
 - Member, Program Committee, Digital Humanities Conference, 2015.
 - Member, Infrastructure Committee, 2013–2017.
 - Member, Publications Committee, 2014–2016.
 
-## Assocation for Computers in the Humanities (ACH)
+### Assocation for Computers in the Humanities (ACH)
 
 - Communications Office, 2012–2016.
 - Webmaster, 2011–2012.
 
-## _Digital Humanities Quarterly_
+### _Digital Humanities Quarterly_
 
 - Techical Editor, 2012–present.
-
-
-

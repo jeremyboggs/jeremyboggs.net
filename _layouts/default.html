@@ -1,11 +1,19 @@
 <!DOCTYPE html>
+<html lang="en-US">
+<head>
 <meta charset="utf-8">
 <title>{{ page.title }} · {{ site.title }}</title>
 <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+</head>
+<body>
 <a href="#main" class="visually-hidden">Skip to main content</a>
 <header role="banner" id="banner">
-  <p><a href="{{ site.baseurl }}/">{{ site.title }}</a> is a wreckage of intention.</p>
+  <p><a href="{{ site.baseurl }}/">{{ site.title }}</a></p>
+  <nav>
+    <a href="{{ site.baseurl }}/">Home</a> · <a href="{{ site.baseurl }}/cv/">CV</a>
+  </nav>
 </header>
+
 <main role="main" id="main">
 {{ content }}
 </main>
@@ -13,5 +21,7 @@
   <ul>
     <li>Office: Shannon Library 308D (Scholars’ Lab)</li>
     <li>Email: <a href="mailto:jeremy@virginia.edu">jeremy@virginia.edu</a></li>
-</ul>
+  </ul>
 </footer>
+</body>
+</html>

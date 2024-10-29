@@ -1,32 +1,8 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
 
-.audible {
-
-}
-
-#banner:after,
-footer:before {
-  content: " ";
-  display: block;
-  height: 0px;
-  border: 0;
-  border-top: 1px solid #ccc;
-  border-bottom:1px solid #999;
-  margin: 1em 0;
-  padding: 0;
-}
-
-/*
- * Hide only visually, but have it available for screen readers:
- * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
- *
- * 1. For long content, line feeds are not interpreted as spaces and small width
- *    causes content to wrap 1 word per line:
- *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
- */
-
- .visually-hidden {
+.visually-hidden {
   border: 0;
   clip: rect(0, 0, 0, 0);
   height: 1px;
@@ -37,4 +13,117 @@ footer:before {
   white-space: nowrap;
   width: 1px;
   /* 1 */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,body {
+  margin:0;
+  padding:0;
+}
+
+body {
+  font-family: "Libre Franklin", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 1.75;
+  padding: 0 1rem;
+  color: #303030;
+  background: #fcede0;
+}
+
+h1 {
+  font-weight: 800;
+  line-height: 1;
+  font-size: 3rem;
+  margin-bottom:0;
+}
+
+
+h2,h3,h4,h5,h6 {
+  margin-bottom:0;
+}
+
+h1 + p,
+h1 + h2,
+h1 + ul,
+h1 + ol,
+h2 + p,
+h2 + ul,
+h2 + ol,
+h2 + h3,
+h3 + p,
+h3 + ul,
+h3 + ol,
+h3 + h4 {
+  margin-top:0;
+}
+
+a:link,
+a:visited {
+  color: rgba(200, 100, 100, 0.9);
+}
+
+a:hover,
+a:focus {
+  color: rgba(150, 50, 50, 0.9);
+}
+a:active {
+  color: #303030;
+}
+blockquote {
+  margin: 2rem;
+  background: rgba(255,255,255,0.25);
+  padding: 2rem;
+  border-left: 0.25rem solid rgba(255,100,0, 0.75);
+  font-size: 1.25rem;
+
+}
+
+blockquote p {
+  margin:0;
+}
+
+#banner {
+  border-bottom: 1px solid rgba(0,0,0,0.075);
+  display:flex;
+  flex-wrap:nowrap;
+  justify-content: space-between;
+  padding: 2rem 0;
+}
+
+#banner p {
+  margin:0;
+}
+
+nav a {
+  padding-right: 0.5rem;
+}
+
+nav a+a {
+  padding-left: 0.5rem;
+}
+
+main > h1:first-of-type,
+article header h1:first-of-type {
+  margin: 8rem 0;
+}
+
+footer {
+  border-top: 1px solid rgba(0,0,0,0.075);
+}
+
+@media screen and (min-width: 500px) {
+
+body {
+  font-size: 18px;
+  padding: 0 4rem;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
 }
