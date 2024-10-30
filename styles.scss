@@ -32,7 +32,7 @@ body {
   line-height: 1.75;
   padding: 0 1rem;
   color: #303030;
-  background: #fffee9;
+  background: #f4f4ee;
 }
 
 h1 {
@@ -64,22 +64,22 @@ h3 + h4 {
 
 a:link,
 a:visited {
-  color: rgba(200, 100, 100, 0.9);
+  color: rgba(100, 50, 50, 0.9);
 }
 
 a:hover,
 a:focus {
-  color: rgba(150, 50, 50, 0.9);
+  color: rgba(120, 50, 100, 0.9);
 }
 a:active {
   color: #303030;
 }
 blockquote {
-  margin: 2rem;
+  margin: 4rem 2rem;
   background: rgba(255,255,255,0.25);
-  padding: 2rem;
-  border-left: 0.25rem solid rgba(255,100,0, 0.75);
-  font-size: 1.25rem;
+  padding: 3rem;
+  border: 1px solid rgba(0,0,0,0.125);
+  box-shadow: 10px 10px 0 rgba(100,50,50, 0.075);
 
 }
 
@@ -114,16 +114,26 @@ article header h1:first-of-type {
 
 footer {
   border-top: 1px solid rgba(0,0,0,0.075);
+  margin-top: 4rem;
 }
 
 @media screen and (min-width: 500px) {
 
 body {
-  font-size: 18px;
   padding: 0 4rem;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
+  max-width: 700px;
+  margin: 0 auto;
 }
 
+section {
+  margin: 4rem 0;
+}
+
+section+section {
+  border-top: 1px solid rgba(0,0,0,0.075);
+  padding-top: 2rem;
+}
 }
