@@ -13,7 +13,7 @@ title: Curriculum Vitae
 - Creative Lead, Center for History and New Media, George Mason University, January 2008–October 2010.
 - Web Developer, Center for History and New Media, George Mason University, January 2006–January 2008.
 - Lecturer, Department of History and Art History, George Mason University, August 2006–January 2012.
-- Lecturer, Department of Art and Visual Techology, George Mason University, August 2010.
+- Lecturer, Department of Art and Visual Technology, George Mason University, August 2010.
 
 ## Education
 
@@ -24,7 +24,7 @@ title: Curriculum Vitae
 
 - (Book Chapter) “Making in Matter,” with J.K. Purdom Lindblad and Jennifer Reed. _Making Things and Drawing Boundaries: Experiments in the Digital Humanities_. Jentery Sayers, ed. University of Minnesota Press, 2017.
 - (Book Chapter) “Praxis,” with Bethany Nowviskie and J.K. Purdom Lindblad. _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_. Rebecca Frost David, et. al., eds. Modern Languages Association, 2016.
-- (Article) “Between a Book and a Hard Place: Translating the Value of Digital Humanities in a Reconfigured Library,” with Purdom Lindblad and Laura Miller. _dh+lib_ special issue on “Digital Humanites in the Library / Of the Library,” 29 July 2016.
+- (Article) “Between a Book and a Hard Place: Translating the Value of Digital Humanities in a Reconfigured Library,” with Purdom Lindblad and Laura Miller. _dh+lib_ special issue on “Digital Humanities in the Library / Of the Library,” 29 July 2016.
 - (Article) “Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking,” with Brandon Walsh, et. al. _Literary and Linguistic Computing_ vol. 29, no. 3, 2014.
 - (Article) “Geo-Temporal Interpretation of Archival Collections With Neatline,” with Bethany Nowviskie, David McClure, Wayne Graham, Adam Soroka, and Eric Rochester. _Literary and Linguistic Computing_ 28:4, (December 2013), 692–699, https://doi.org/10.1093/llc/fqt043
 - (Review) Visual Interface Design for Digital Cultural Heritage: A Guide to Rich-Prospect Browsing by Stan Ruecker, et. al. _Literary and Linguistic Computing_ vol. 27, no. 4, 2012.
@@ -33,7 +33,7 @@ title: Curriculum Vitae
 
 ## Presentations
 
-- (Invited Speaker) “A Carrier Bag Theory for Digital Humanities,” Digital Humanites and Social Justice Speaker Series. University of Houston,  January 25, 2018, Houston, Texas.
+- (Invited Speaker) “A Carrier Bag Theory for Digital Humanities,” Digital Humanities and Social Justice Speaker Series. University of Houston,  January 25, 2018, Houston, Texas.
 - (Panelist) “Representing Justice in Digital Archiving Practice,” with Roopika Risam, J. K. Purdom Lindblad, and Padmini Ray Murray. Digital Humanities 2016, July 11–16, Kraków, Poland.
 - (Paper) “Affordances of Interface for Digital Literary Archives,” with Alison Booth, Purdom Lindblad, and Rennie Mapp. Archival Uncertainties. April 4, 2016. London, UK.
 - (Poster) “Advocacy by Design,” with J. K. Purdom Lindblad, Bethany Nowviskie, Ivey Glendon, and Lisa Goff. Joint CSDH/SCHN and ACH Digital Humanities Conference, July 1–3, 2015. Ottawa, Canada.
@@ -101,13 +101,13 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 ### _Digital Humanities Quarterly_
 
-- Techical Editor, 2012–present.
+- Technical Editor, 2012–present.
 
 ### _DIECIOCHO_
 
 - Technical Editor, 2022–present.
 
-### Alliance of Digital Humanites Organizations (ADHO)
+### Alliance of Digital Humanities Organizations (ADHO)
 
 - Member, Program Committee, Digital Humanities Conference, 2017.
 - Member, Program Committee, Digital Humanities Conference, 2015.
