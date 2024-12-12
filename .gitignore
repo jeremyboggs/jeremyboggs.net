@@ -2,3 +2,4 @@
 _site/
 .env
 *.env
+.jekyll-metadata
