@@ -93,6 +93,22 @@ blockquote p {
   margin:0;
 }
 
+table {
+  border-collapse: collapse;
+}
+table th,
+table td {
+  text-align: left;
+  min-width: 150px;
+  padding: 1rem 0;
+  vertical-align: top;
+
+}
+
+table tr + tr {
+  border-top: 1px dashed rgba(0,0,0,0.175);
+}
+
 #banner {
   border-bottom: 1px solid rgba(0,0,0,0.075);
   display:flex;
@@ -130,7 +146,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -141,5 +157,9 @@ section {
 section+section {
   border-top: 1px solid rgba(0,0,0,0.075);
   padding-top: 2rem;
+}
+
+table.schedule {
+
 }
 }
