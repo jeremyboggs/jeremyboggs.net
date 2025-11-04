@@ -6,6 +6,7 @@ title: Curriculum Vitae
 ## Experience
 
 - Head of Research and Development, Scholars' Lab, University of Virginia Library. March 2017–present.
+- Adjunct Faculty, Engaged and Public Humanities, Georgetown University, January 2025–present.
 - Lecturer, American Studies, University of Virginia. January 2013–present.
 - Design Architect, Scholars' Lab, University of Virginia Library, June 2011–March 2017.
 - Assistant Director of Research, Center for History and New Media, George Mason University, October 2010–June 2011.
@@ -60,6 +61,10 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 ## Courses Taught
 
+### Georgetown University, Washington, DC
+
+- ENPH 5504, Digital Public Humanities
+
 ### University of Virginia, Charlottesville, VA
 
 - AMST 4500, Digital Archives and Social Justice
@@ -101,7 +106,7 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 ### _Digital Humanities Quarterly_
 
-- Technical Editor, 2012–present.
+- Technical Editor, 2012–2020.
 
 ### _DIECIOCHO_
 
