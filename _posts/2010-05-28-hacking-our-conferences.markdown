@@ -15,8 +15,7 @@ tags:
 
 Coming off another successful [ THATCamp](http://thatcamp.org), I keep thinking there is so much more we can do with the  unconference model in academia. The ideas generated from THATCamp, the  collegiality and openess lends itself to an intellectual playfulness and  exchange that is almost wholly lacking in traditional academic  conferences. It's time we start hacking our conferences.
 
-**So,  let's do it already.
-**
+**So,  let's do it already.**
 
 Where should we start?  Let's try this first: If you're going to an annual conference, try to  organize an unconference yourself, either with support of the  organization, or on your own off-site. Just do it. Tweet it. Blog it.  Find a spot that has some rooms, whiteboards, and wifi. Check the local  library or university and see if you can reserve some space. Or find a  bar or restaurant with wifi that can reserve some space. Add your  unconference to the [Barcamp](http://barcamp.org) site, or [make your own site](http://wordpress.com), and post about the event on  Twitter. Unconferences don't have to be expensive; In fact, they should  be as cheap as possible. The  most important thing is providing space  for attendees to collaborate, discuss ideas, and turn those ideas into  future projects. (Wifi would be nice, too!) If you can do that, you're  most of the way there. If this isn't a conference hack, I don't know  what is.  Get the word out, see  if there are interested people, and give it a try! If you can get support from conference organizers, even better! It doesn't have to be associated with the conference itself (which may preclude you from using the conference venue as space),  but it can  involve folks attending the conference.
 
@@ -32,16 +31,16 @@ A third argument against academic unconferences usually involves some form of th
 
 
 
-	
+
   * [ProfHacker](http://chronicle.com/blog/ProfHacker/27/) - The awesome blog about how academics can improve their workflow and talk about teaching and research techniques, now hosted at the Chronicle of Higher Education.
 
-	
+
   * [Zoterofest](http://zotero.umwblogs.org/zoterofest/) - A one-day unconference/workshop at the University of Mary Washington, conceived by Jeff McClurken.
 
-	
+
   * [Digital  Jumpstart](http://digital-jumpstart.org) - Unconference-like workshop run by Sharon Leon and Sheila Brennan, whose goals are to help digital humanities project get off the ground.
 
-	
+
   * [Ethical  Hacking in the Humanities](http://docs.google.com/View?id=dgzx6wms_257fzdg92g8) a group-edited syllabus on ethics in hacking for digital humanities, [a session proposed by John M. Jones](http://thatcamp.org/2010/hacking-ethics-for-edupunks/) at THATCamp.
 
 
