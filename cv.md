@@ -28,7 +28,7 @@ title: Curriculum Vitae
 - (Article) “Between a Book and a Hard Place: Translating the Value of Digital Humanities in a Reconfigured Library,” with Purdom Lindblad and Laura Miller. _dh+lib_ special issue on “Digital Humanities in the Library / Of the Library,” 29 July 2016.
 - (Article) “Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking,” with Brandon Walsh, et. al. _Literary and Linguistic Computing_ vol. 29, no. 3, 2014.
 - (Article) “Geo-Temporal Interpretation of Archival Collections With Neatline,” with Bethany Nowviskie, David McClure, Wayne Graham, Adam Soroka, and Eric Rochester. _Literary and Linguistic Computing_ 28:4, (December 2013), 692–699, https://doi.org/10.1093/llc/fqt043
-- (Review) Visual Interface Design for Digital Cultural Heritage: A Guide to Rich-Prospect Browsing by Stan Ruecker, et. al. _Literary and Linguistic Computing_ vol. 27, no. 4, 2012.
+- (Review) _Visual Interface Design for Digital Cultural Heritage: A Guide to Rich-Prospect Browsing_ by Stan Ruecker, et. al. _Literary and Linguistic Computing_ vol. 27, no. 4, 2012.
 - (Review) Query Pic by Tim Sherratt. _Journal of Digital Humanities_ 1:1 (Winter 2011) , with Wayne Graham, Eric Rochester, and David McClure.
 - (Book Chapter) “Digital Literacy and the Undergraduate Curriculum” and “Unconferences,” _Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities_. Daniel J. Cohen and Tom Scheinfeldt, eds. University of Michigan Press, 2013.
 - (Book Chapter) “Gilded Age and Progressive Era” and “Electronic Journals,” in _The History Highway: A 21st Century Guide to Internet Resources_. Dennis Trinkle and Scott Merriman, eds. Armonk, New York: M.E. Sharpe, 2006.
