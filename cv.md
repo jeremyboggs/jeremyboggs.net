@@ -31,6 +31,15 @@ title: Curriculum Vitae
 - (Review) Visual Interface Design for Digital Cultural Heritage: A Guide to Rich-Prospect Browsing by Stan Ruecker, et. al. _Literary and Linguistic Computing_ vol. 27, no. 4, 2012.
 - (Review) Query Pic by Tim Sherratt. _Journal of Digital Humanities_ 1:1 (Winter 2011) , with Wayne Graham, Eric Rochester, and David McClure.
 - (Book Chapter) “Digital Literacy and the Undergraduate Curriculum” and “Unconferences,” _Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities_. Daniel J. Cohen and Tom Scheinfeldt, eds. University of Michigan Press, 2013.
+- (Book Chapter) “Gilded Age and Progressive Era” and “Electronic Journals,” in _The History Highway: A 21st Century Guide to Internet Resources_. Dennis Trinkle and Scott Merriman, eds. Armonk, New York: M.E. Sharpe, 2006.
+- (Article) “What? Wikipedia in History Class?”](http://www.iste.org/learn/publications/learning-and-leading/issues/Learning_Connections_What_Wikipedia_in_History_Class.aspx) _Learning and Leading with Technology_. December/January 2010.
+- (Review) _White Women, Rape, and the Power of Race in Virginia, 1900-1940_ by Lisa Lindquist Dorr. H-SAWH, July 2006
+- (Review) _In Old Virginia: Slavery, Farming, and Society in the Journal of John Walker_, by Claudia Bushman (Johns Hopkins University Press, 2002). _North Carolina Historical Review_ (October, 2002).
+- (Review) _Democratic Dissent and Cultural Fictions of Antebellum America_, by Stephen John Hartnett (University of Illinois Press, 2002). _Maryland Historical Magazine_ (Winter, 2003).
+- (Review) _A Separate Circle: Jewish Life in Knoxville, Tennessee_, by Wendy Besmann (University of Tennessee Press, 2001). _Tennessee Historical Quarterly_ (Winter, 2003).
+- (Review) _Local Matters: Race, Crime, and Justice in the Nineteenth-Century South_, edited by Christopher Waldrep, and Donald G. Nieman (University of Georgia Press, 2001). _Southern Historian_ (Spring, 2003).
+- (Review) _The Reconstruction of American Liberalism, 1865-1914_, by Nancy Cohen (University of North Carolina Press, 2002). _Florida Historical Quarterly_ (Winter 2004).
+- (Review) _The Cold War and the Color Line: American Race Relations in the Global Arena_, by Thomas Borstelmann (Harvard University Press, 2001). _North Carolina Historical Review_ (October, 2004).
 
 ## Presentations
 
@@ -43,13 +52,19 @@ title: Curriculum Vitae
 - (Paper) “Made to Make: Expanding Digital Humanities through Desktop Fabrication,” with Jentery Sayers, Devon Elliot, and William J. Turkel. Digital Humanities 2013, July 16–19, Lincoln, Nebraska.
 - (Panelist) “Circular Development: Neatline and the User/Developer Feedback Loop,” with Amy Earhart, et. al. Digital Humanities 2013, July 16–19, Lincoln, Nebraska.
 - (Poster) “Geo-temporal Interpretation of Archival Collections Using Neatline,” with Bethany Nowviskie, David McClure, Wayne Graham, and Eric Rochester. Digital Humanities 2012, July 16–20, 2012, Hamburg, Germany.
+- (Workshop) “Geotemporal Storytelling with Neatline,” National Institute for Technology in Liberal Education, October 2012 (with David McClure).
+- (Workshop) “Omeka + Neatline,” October 2011 Toronto Mini-CWRCshop, October 27, 2012, Toronto, Canada.
 - (Poster) “Realigning Digital Humanities Training: The Praxis Program at the Scholars’ Lab,” with Bethany Nowviskie, et. al. Digital Humanities Conference, 2012, Hamburg, Germany.
+- (Invited Speaker) “Open Digital Humanities,” Scholars’ Lab Speaker Series. March 18, 2011, Charlottesville, Virginia.
 - (Panelist) “Digital Tools for Historians,” wiwth Sheila Brennan, Joe Gilbert, Wayne Graham, and Trevor Owens. Organization of American Historians Annual Meeting, 2010, Washington D.C.
-- (Panelist)
-Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. “Humanities in the Digital Age,” with Daniel J. Cohen, Jef McClurken, Trevor Owens, Kelly Schrum, and Jim Groom. Annual Meeting of the American Historical Association, January 2010, San Diego, CA.
+- (Panelist) Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. “Humanities in the Digital Age,” with Daniel J. Cohen, Jef McClurken, Trevor Owens, Kelly Schrum, and Jim Groom. Annual Meeting of the American Historical Association, January 2010, San Diego, CA.
 - (Panelist) “Three free, open source, extensible platforms for creating collaborative learning communities,” with Trevor Owens and Dave Lester, Educause, 2010, Denver, CO.
+- (Workshop) “Using WordPress to Share Research.” WordCamp New York City, November 14–15, 2009, New York, NY.
 - (Panelist) “Teaching and learning in the digital age,” with Kelly Schrum, Trevor Owens, Ken Albers, Jennifer Reeder, and Ammon Shepherd. Annual Meeting of the History of Education Society, October 2009, Philadelphia, PA
+- (Poster) “Weblogs and Wikis.” Annual Meeting of the History of Education Society, October 22–25, 2009, Philadelphia, PA.
 - (Panelist) “Free digital tools to inspire student learning,” with Trevor Owens, Lee Ann Ghajar, and Dave Lester. National Education Computing Conference, June 2009, Fairfax, VA.
+- (Invited Speaker) “Four Roles for Digital Scholars, and the Skills They Need.” Future of Digital Scholarship Colloquium, Emory University, April 17–18, 2009, Atlanta, GA.
+- (Poster) “Material Cultures of Filth and Cleanliness: The American Bathroom at the Turn of the Last Century.” Annual Meeting of American History Association, January 5–9, 2007, Atlanta, GA.
 
 ## Grant-Funded Research and Development
 
@@ -121,9 +136,16 @@ Boggs, J., Cohen, D. J., McClurken, J., Owens, T. J., Schrum, K., & Groom, J. �
 
 ### Assocation for Computers in the Humanities (ACH)
 
-- Communications Office, 2012–2016.
+- Communications Officer, 2012–2016.
 - Webmaster, 2011–2012.
 
 ### DH Slack
 
 - Moderator, 2017–present.
+
+### American Association for History and Computing (AAHC)
+
+- President, 2008–2009
+- Technical Editor and Electronic Resources Editor, _Journal of the Association
+  for History and Computing_, 2006–2009
+- Member, Executive Council, 2007-2010
