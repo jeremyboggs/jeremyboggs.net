@@ -32,7 +32,7 @@ title: Curriculum Vitae
 - (Review) Query Pic by Tim Sherratt. _Journal of Digital Humanities_ 1:1 (Winter 2011) , with Wayne Graham, Eric Rochester, and David McClure.
 - (Book Chapter) “Digital Literacy and the Undergraduate Curriculum” and “Unconferences,” _Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities_. Daniel J. Cohen and Tom Scheinfeldt, eds. University of Michigan Press, 2013.
 - (Book Chapter) “Gilded Age and Progressive Era” and “Electronic Journals,” in _The History Highway: A 21st Century Guide to Internet Resources_. Dennis Trinkle and Scott Merriman, eds. Armonk, New York: M.E. Sharpe, 2006.
-- (Article) “What? Wikipedia in History Class?”](http://www.iste.org/learn/publications/learning-and-leading/issues/Learning_Connections_What_Wikipedia_in_History_Class.aspx) _Learning and Leading with Technology_. December/January 2010.
+- (Article) “What? Wikipedia in History Class?” _Learning and Leading with Technology_. December/January 2010.
 - (Review) _White Women, Rape, and the Power of Race in Virginia, 1900-1940_ by Lisa Lindquist Dorr. H-SAWH, July 2006
 - (Review) _In Old Virginia: Slavery, Farming, and Society in the Journal of John Walker_, by Claudia Bushman (Johns Hopkins University Press, 2002). _North Carolina Historical Review_ (October, 2002).
 - (Review) _Democratic Dissent and Cultural Fictions of Antebellum America_, by Stephen John Hartnett (University of Illinois Press, 2002). _Maryland Historical Magazine_ (Winter, 2003).
