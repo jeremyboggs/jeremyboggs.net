@@ -23,13 +23,17 @@ title: Curriculum Vitae
 
 ## Publications
 
-- (Book Chapter) “Making in Matter,” with J.K. Purdom Lindblad and Jennifer Reed. _Making Things and Drawing Boundaries: Experiments in the Digital Humanities_. Jentery Sayers, ed. University of Minnesota Press, 2017.
-- (Book Chapter) “Praxis,” with Bethany Nowviskie and J.K. Purdom Lindblad. _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_. Rebecca Frost David, et. al., eds. Modern Languages Association, 2016.
-- (Article) “Between a Book and a Hard Place: Translating the Value of Digital Humanities in a Reconfigured Library,” with Purdom Lindblad and Laura Miller. _dh+lib_ special issue on “Digital Humanities in the Library / Of the Library,” 29 July 2016.
-- (Article) “Crowdsourcing Individual Interpretations: Between Microtasking and Macrotasking,” with Brandon Walsh, et. al. _Literary and Linguistic Computing_ vol. 29, no. 3, 2014.
-- (Article) “Geo-Temporal Interpretation of Archival Collections With Neatline,” with Bethany Nowviskie, David McClure, Wayne Graham, Adam Soroka, and Eric Rochester. _Literary and Linguistic Computing_ 28:4, (December 2013), 692–699, https://doi.org/10.1093/llc/fqt043
-- (Review) _Visual Interface Design for Digital Cultural Heritage: A Guide to Rich-Prospect Browsing_ by Stan Ruecker, et. al. _Literary and Linguistic Computing_ vol. 27, no. 4, 2012.
-- (Review) Query Pic by Tim Sherratt. _Journal of Digital Humanities_ 1:1 (Winter 2011) , with Wayne Graham, Eric Rochester, and David McClure.
+- (Book Chapter) [“Making in Matter,”](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/f29e68c9-e28e-4c1a-b083-93025a5ed6b3#ch37) with J.K. Purdom Lindblad and Jennifer Reed. _Making Things and Drawing Boundaries: Experiments in the Digital Humanities_. Jentery Sayers, ed. University of Minnesota Press, 2017.
+- (Book Chapter) [“Praxis,”](https://digitalpedagogy.hcommons.org/keyword/Praxis) with Bethany Nowviskie and J.K. Purdom Lindblad. _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_. Rebecca Frost David, et. al., eds. Modern Languages Association, 2016.
+- (Article) [“Between a Book and a Hard Place: Translating the Value of Digital Humanities in a Reconfigured Library,”](https://dhandlib.org/between-a-book-and-a-hard-place/) with Purdom Lindblad and Laura Miller. _dh+lib_ special issue on “Digital Humanities in the Library / Of the Library,” 29 July 2016.
+- (Article) [“Crowdsourcing Individual Interpretations: Between Microtasking and
+  Macrotasking,”](https://doi.org/10.1093/llc/fqu030) with Brandon Walsh, et. al. _Literary and Linguistic Computing_
+  vol. 29, no. 3, 2014. https://doi.org/10.1093/llc/fqu030
+- (Article) [“Geo-Temporal Interpretation of Archival Collections With Neatline,”](https://doi.org/10.1093/llc/fqt043) with Bethany Nowviskie, David McClure, Wayne Graham, Adam Soroka, and Eric Rochester. _Literary and Linguistic Computing_ 28:4, (December 2013), 692–699, https://doi.org/10.1093/llc/fqt043
+- (Review) [_Visual Interface Design for Digital Cultural Heritage: A Guide to
+  Rich-Prospect Browsing_](https://doi.org/10.1093/llc/fqs029) by Stan Ruecker,
+  et. al. _Literary and Linguistic Computing_ vol. 27, no. 4, 2012. https://doi.org/10.1093/llc/fqs029
+- (Review) [Query Pic by Tim Sherratt.](https://journalofdigitalhumanities.org/1-1/querypic/) _Journal of Digital Humanities_ 1:1 (Winter 2011) , with Wayne Graham, Eric Rochester, and David McClure.
 - (Book Chapter) “Digital Literacy and the Undergraduate Curriculum” and “Unconferences,” _Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities_. Daniel J. Cohen and Tom Scheinfeldt, eds. University of Michigan Press, 2013.
 - (Book Chapter) “Gilded Age and Progressive Era” and “Electronic Journals,” in _The History Highway: A 21st Century Guide to Internet Resources_. Dennis Trinkle and Scott Merriman, eds. Armonk, New York: M.E. Sharpe, 2006.
 - (Article) “What? Wikipedia in History Class?” _Learning and Leading with Technology_. December/January 2010.
