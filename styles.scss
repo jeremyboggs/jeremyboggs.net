@@ -30,7 +30,7 @@ body {
   font-style: normal;
   font-size: 18px;
   line-height: 1.75;
-  padding: 0 1rem;
+  padding: 0 0.5rem;
   color: #303030;
   background: #f4f4ee;
 }
@@ -169,11 +169,10 @@ footer {
 @media screen and (min-width: 500px) {
 
 body {
-  padding: 0 4rem;
+  padding: 0 1rem;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
-  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -188,5 +187,21 @@ section+section {
 
 table.schedule {
 
+}
+}
+
+@media screen and (min-width: 900px) {
+
+.portfolio-work {
+  display:flex;
+  flex-wrap:wrap;
+}
+
+.portfolio-work h2 {
+  flex-basis: 100%;
+}
+
+.portfolio-work .gallery {
+  flex-basis: 50%;
 }
 }
