@@ -134,6 +134,33 @@ article header h1:first-of-type {
   margin: 8rem 0;
 }
 
+.courses {
+  list-style:none;
+  padding-left:0;
+  width: fit-content;
+}
+
+.courses li {
+  padding: 0.5rem 0;
+}
+
+.courses li+li {
+  border-top: 1px solid rgba(0,0,0,0.25);
+}
+
+.courses a {
+  text-decoration:none;
+}
+
+.courses strong,
+.courses span {
+  display:block;
+}
+
+.courses span {
+  font-size: 0.9rem;
+}
+
 footer {
   border-top: 1px solid rgba(0,0,0,0.075);
   margin-top: 4rem;

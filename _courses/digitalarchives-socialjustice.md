@@ -4,7 +4,9 @@ term: Spring 2018
 location: New Cabell 042
 occurrence: Tu/Th, 12:30–1:45
 office-hours: Thursdays 2–4
-office-location: Alderman 411a (Scholars’ Lab) 
+office-location: Alderman 411a (Scholars’ Lab)
+date: 2018-01-01
+institution: University of Virginia
 ---
 
 - Tu/Th, 12:30–1:45
@@ -14,11 +16,11 @@ office-location: Alderman 411a (Scholars’ Lab)
 - Email: jeremy@virginia.edu
 - Phone: 434-243-2317
 
-> "Archives are not neutral; they embody the power inherent in accumulation, collection and hoarding as well as that power inherent in the command of the lexicon and rules of language...." – Allan Sekula, "Reading an Archive" 
+> "Archives are not neutral; they embody the power inherent in accumulation, collection and hoarding as well as that power inherent in the command of the lexicon and rules of language...." – Allan Sekula, "Reading an Archive"
 
-This seminar supports critical engagement with social justice through the research, design, development, and critique of digital archives and collections. This is a course in applied American Studies; it emphasizes reading, discussing, and making, and it values tacit knowledge through the practice of building and using digital collections. 
+This seminar supports critical engagement with social justice through the research, design, development, and critique of digital archives and collections. This is a course in applied American Studies; it emphasizes reading, discussing, and making, and it values tacit knowledge through the practice of building and using digital collections.
 
-The course starts with the premise that "archives are not neutral," and investigates the making and using of digital archives in ethical, responsible, and critical-engages ways. Through reading, making, and reflecting, the class will help students consider modes of critical engagement through digital archiving/collecting practices. 
+The course starts with the premise that "archives are not neutral," and investigates the making and using of digital archives in ethical, responsible, and critical-engages ways. Through reading, making, and reflecting, the class will help students consider modes of critical engagement through digital archiving/collecting practices.
 
 ## Schedule
 
@@ -96,4 +98,3 @@ specialize in a particular area, and its safe to assume that once this
 class is over you will choose a particular area or two as a specialty.
 But for this class, I expect you to learn about and contribute to all
 the areas involved in the creation of a digital project.
-

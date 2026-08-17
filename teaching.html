@@ -1,0 +1,16 @@
+---
+layout: page
+title: Teaching
+---
+{% assign sorted_courses = site.courses | sort: 'date' | reverse %}
+<section id="past-courses">
+    <h2>Past Courses</h2>
+    <ul class="courses">
+    {% for course in sorted_courses %}
+    <li>
+        <strong><a href="{{ course.url }}">{{ course.title }}</a></strong>
+        <span>{{ course.term }} · {{ course.institution }}</span>
+    </li>
+    {% endfor %}
+    </ul>
+</section>

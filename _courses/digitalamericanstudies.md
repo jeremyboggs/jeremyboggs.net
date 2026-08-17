@@ -1,6 +1,8 @@
 ---
 title: Digital American Studies
 term: Spring 2017
+date: 2017-01-01
+institution: University of Virginia
 ---
 
 This course is designed as a intensive exploration of the adaptation of
@@ -158,4 +160,3 @@ specialize in a particular area, and its safe to assume that once this
 class is over you will choose a particular area or two as a specialty.
 But for this class, I expect you to learn about and contribute to all
 the areas involved in the creation of a digital project.
-
