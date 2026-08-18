@@ -192,9 +192,13 @@ table.schedule {
 
 @media screen and (min-width: 900px) {
 
+body {
+  max-width: 1100px;
+}
+
 .portfolio-work {
   display:flex;
-  flex-wrap:wrap;
+  flex-direction: column;
 }
 
 .portfolio-work h2 {
@@ -202,6 +206,34 @@ table.schedule {
 }
 
 .portfolio-work .gallery {
-  flex-basis: 50%;
+  align-self: flex-end;
+  order: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 50%));
 }
+
+.portfolio-work .description h3,
+.portfolio-work .description ul,
+.portfolio-work .description li {
+  font-size: 0.9em;
+  display:inline;
+  margin:0;
+  padding:0;
+  width: auto;
+}
+
+.portfolio-work .description h3::after {
+  content: ': ';
+}
+
+.portfolio-work .description li + li:before {
+  content: ' · ';
+}
+
+.portfolio-work .description ul:first-of-type::after {
+  content: ' ';
+  display:block;
+}
+
+
 }
